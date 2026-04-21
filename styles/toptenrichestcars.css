@@ -1,0 +1,20 @@
+h1{
+   font-family: "Mea Culpa", cursive;
+    text-align: center;
+    font-size: 37px;
+}
+body {
+    background-image: radial-gradient(#B95E82, #F39F9F, #FFC29B, #FFECC0);
+    padding-right: 20px;
+}
+    
+p {
+    text-align: justify;
+    font-family: "Delius", cursive;
+    line-height: 25px;
+}
+li {
+    font-family: "Mea Culpa", cursive;
+    font-size: 25px;
+    font-weight: bold;
+}

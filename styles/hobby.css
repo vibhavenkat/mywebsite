@@ -1,0 +1,41 @@
+img{
+    width: 250px;
+    margin-top: 20px;
+    border: dotted 9px brown;
+    
+}
+img:hover {
+    transform: rotate(5deg);
+}
+h1{
+     font-family: "Pacifico", cursive;
+    color: lightblue;
+    text-align: center;
+}
+body {
+  background: linear-gradient(
+  #2c3e50,
+  #4ca1af,
+  #a1c4fd,
+  #c2e9fb,
+  #d4a5a5,
+  #b993d6,
+  #8ca6db,
+  #fbc2eb
+);
+padding-right: 20px;
+}
+p {
+    font-family: "Story Script", sans-serif;
+    text-align: justify;
+    font-size: 18px;
+}
+h2 {
+    color: brown;
+}
+li {
+    font-family: "Pacifico", cursive;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}

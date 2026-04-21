@@ -1,0 +1,39 @@
+.common {
+  width: 30%;
+  border: solid 3px;
+  border-radius: 20px;
+  padding: 10px;
+}
+.common img {
+  width: 100%;
+  border-radius: 20px;
+}
+.harry {
+  background-image: linear-gradient(#fbc3c1, #faacbf, #fe81d4);
+}
+.hermione {
+  background-image: linear-gradient(#e6501b, #c3110c, #9b0f06);
+}
+.ron {
+  background-image: linear-gradient(#9b8ec7, #bda6ce, #b4d3d9);
+}
+.neville {
+  background-image: linear-gradient(#e4dfb5, #c3cc9b, #9ab17a);
+}
+.draco {
+  background-image: linear-gradient(#1b0c0c, #313e17, #4c5c2d);
+}
+.ginny {
+  background-image: linear-gradient(#eeeeee, #bd114a, #d75656);
+}
+.flexbox {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: stretch;
+  row-gap: 20px;
+}
+body{
+background-image: linear-gradient( #5F6F65, #808D7C, #9CA986, #C9DABF);
+}

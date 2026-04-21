@@ -1,0 +1,24 @@
+h1 {
+  font-family: "DynaPuff", system-ui;
+  text-align: center;
+}
+body {
+  background-image: linear-gradient(to top, #cbdceb, #6d94c5, #e8dfca, #f5efe6);
+  padding: 10px;
+}
+p {
+  text-align: justify;
+   font-family: "Rouge Script", cursive;
+  font-size: 20px;
+  line-height: 25px;
+}
+
+img {
+  width: 350px;
+  border: groove purple 9px;
+  transition: transform 2s 0.1s;
+  
+}
+img:hover{
+  transform: translate(5%,5%);
+}
