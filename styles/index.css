@@ -19,6 +19,7 @@
    display: flex;
    align-items: center;
     grid-area: footer;
+    font-family: "Henny Penny", system-ui;
 }
 .parent{
     display: grid;
@@ -97,4 +98,11 @@ body{
     100%{
         background-color: lightseagreen;
     }
+}
+.card h2{
+    font-family: "Fascinate", system-ui;
+}
+.card p{
+font-family: "Corinthia", cursive;
+font-size: 20px;
 }
